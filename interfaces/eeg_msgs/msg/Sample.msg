@@ -16,6 +16,6 @@ uint64 index
 bool is_trigger
 
 bool is_event
-uint16 event_type
+string event_type
 
 SampleMetadata metadata
